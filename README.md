@@ -585,9 +585,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 |               |                                                                                        |
 | ------------- | -------------------------------------------------------------------------------------- |
-| **LinkedIn**  | [Yhttps://www.linkedin.com/in/yashmhasekar/](https://linkedin.com/in/YOUR_LINKEDIN)    |
+| **LinkedIn**  | [https://www.linkedin.com/in/yashmhasekar/](https://linkedin.com/in/YOUR_LINKEDIN)    |
 | **Email**     | [yashmhasekar.hackathons@gmail.com](mailto:YOUR_EMAIL@example.com)                     |
 | **Portfolio** | [coming](https://YOUR_PORTFOLIO.com) soon                                              |
-| **GitHub**    | [Yhttps://github.com/YashMhasekar/Momentum](https://github.com/YOUR_USERNAME/Momentum) |
+| **GitHub**    | [https://github.com/YashMhasekar/Momentum](https://github.com/YOUR_USERNAME/Momentum) |
 
 
