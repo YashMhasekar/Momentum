@@ -1,0 +1,12 @@
+.study-reels-container {
+    width: 100%;
+    min-height: calc(100vh - 80px);
+    background: #f7fafc;
+    margin: -24px;
+    padding: 0;
+}
+
+/* Override any dashboard padding/margins */
+.study-reels-container * {
+    box-sizing: border-box;
+}

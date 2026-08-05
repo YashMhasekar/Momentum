@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain-community
+langchain-classic
+langchain-core
+langchain-groq
+chromadb
+sentence-transformers
+pypdf
+langchain-text-splitters
+opencv-python
+deepface
+tensorflow
+tf-keras

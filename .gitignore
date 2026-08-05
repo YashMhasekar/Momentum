@@ -1,0 +1,108 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/server/node_modules/
+
+# Python
+venv/
+.venv/
+env/
+ENV/
+backend/ai-service/venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Build outputs
+dist/
+dist-ssr/
+frontend/dist/
+build/
+*.tsbuildinfo
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+frontend/.env
+backend/ai-service/.env
+backend/server/.env
+serviceAccountKey.json
+backend/server/serviceAccountKey.json
+**/serviceAccountKey*.json
+!**/serviceAccountKey.json.example
+firebase-debug.log
+.firebase/
+*-firebase-adminsdk-*.json
+
+# Private keys & certificates
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Testing & coverage
+coverage/
+.nyc_output/
+htmlcov/
+.coverage
+.coverage.*
+
+# Editor & IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.cursor/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Vite
+*.local
+
+# AI / ML artifacts
+backend/ai-service/chroma_db/
+**/chroma_db/
+*.h5
+*.pkl
+*.model
+
+# Temporary & backup files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
